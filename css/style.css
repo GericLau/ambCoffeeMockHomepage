@@ -286,7 +286,7 @@ p {
 	background: url("../images/ambassadorCoffee.png") no-repeat scroll left -40px transparent;
 }
 
-#freeTrial a {
+#slider .freeTrial a {
 	font-size: 14px;
 	line-height: 40px;
 	font-family: "Lato Black";
